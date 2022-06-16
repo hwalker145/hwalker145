@@ -1,0 +1,5 @@
+- 🙋‍♂️ Hi, my mame is @hwalker145, you can call me Henry.
+- 🎓 I study computer science at Wentworth Institute!
+- 🌱 Teach me about linking! I want to know how to work with libraries in C++
+- 💭 Let's chat about code. Tell me what repos to peek at!
+- 🎸 I'm into guitar, running, food, and my dog.
